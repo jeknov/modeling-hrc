@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<!--<define-class inherit="Entity.xml" name="box">-->
+<define-class inherit="Agent.xml" name="box">
+
+  <!--<set-attr-value name="scalex" value="1.5"/>
+  <set-attr-value name="scaley" value="1.5"/>
+  <set-attr-value name="scalez" value="1.5"/>-->
+
+  <set-attr-value name="x" value="-200.0"/>
+  <set-attr-value name="y" value="46.5"/>
+  <set-attr-value name="z" value="100.0"/>
+
+  <set-attr-value name="scalex" value="70"/>
+  <set-attr-value name="scaley" value="70"/>
+  <set-attr-value name="scalez" value="70"/>
+  
+  <x3d>
+    <filename>chair2_sgv.x3d</filename>
+  </x3d>
+
+</define-class>
